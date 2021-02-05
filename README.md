@@ -13,7 +13,7 @@
 <h2>Short Description of files in this project</h2>
 <p>
   <ol>
-    <li> <a href = "https://github.com/stefan-schwingenschloegl/Humidity-Sensor-Project/blob/main/Arduino_Send_Data/Arduino_Send_Data.ino" target="_blank"><strong>Arduino_Send_Data.ino</strong></a>: Arduino sketch where temperature and humidity are read via the DHT22 and sent via HC-05 module using Bluetooth
+    <li> <a href = "https://github.com/stefan-schwingenschloegl/Humidity-Sensor-Project/blob/main/Arduino_Send_Data/Arduino_Send_Data.ino" target="_blank"><strong>Arduino_Send_Data.ino</strong></a>: Arduino sketch where temperature and humidity are measured via the DHT22 and sent via HC-05 module using Bluetooth
   </ol>  
 </P>
 
