@@ -5,8 +5,10 @@
 </ul>
 <hr>
 
-<h2>Overview</h2>
+<h2>Summary</h2>
 <p>In this project I will try to collect data on my own. I will use an Elegoo Uno Microcontroller equipped with an DHT22 Temperature and Humidity Sensor. Since I want to analyse the values on my computer and see some sort of history in the changes of the values, I want to transfer the values of the microcontroller to my PC. Because I do not want to have the Microcontroller permanently connected to my laptop by cable for reasons of convenience and in order not to falsify the values myself, I prefer wireless transfer. Therefore, I will use a HC-05 Bluetooth module to send the data to my laptop and write it into a relational Microsoft SQL Express Database. In the last step I want to create a custom dashboard in plotly which will display the data in desired visualisations.</p>
+
+<hr>
 
 <h2>Short Description of files in this project</h2>
 <p>
