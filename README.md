@@ -14,6 +14,7 @@
 <p>
   <ol>
     <li> <a href = "https://github.com/stefan-schwingenschloegl/Humidity-Sensor-Project/blob/main/Arduino_Send_Data/Arduino_Send_Data.ino" target="_blank"><strong>Arduino_Send_Data.ino</strong></a>: Arduino sketch where temperature and humidity are measured via the DHT22 and sent via HC-05 module using Bluetooth
+    <li> <a href = "https://github.com/stefan-schwingenschloegl/Humidity-Sensor-Project/blob/main/Humidity_Data_Collection.ipynb" target="_blank"><strong>Humidity_Data_Collection.ipynb</strong></a>: Creation of the database, acceptance of the data via the pySerial library which are sent from the microcontroller via Bluetooth and storage in the database.
   </ol>  
 </P>
 
