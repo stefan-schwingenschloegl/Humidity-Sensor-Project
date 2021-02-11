@@ -23,7 +23,7 @@ SoftwareSerial hc_05(TXPIN,RXPIN);
 void setup() {
   /* Start Program on Elegoo UNO*/
   hc_05.begin(9600);
-  dht.begin(); //DHT11 Sensor starten
+  dht.begin();
 }
 
 void loop() {
