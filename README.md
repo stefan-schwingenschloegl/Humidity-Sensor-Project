@@ -24,7 +24,7 @@
 
 <h3>What do I want to learn with this project?</h3>
 <p><ul>
-  <li> I want to refresh my knowledge about <strong>rsensor data collection</strong>r with an microcontroller. I think microcontrollers are a very exciting way to generate data. With a little creativity, you can easily and cheaply realise interesting projects.
+  <li> I want to refresh my knowledge about <strong>sensor data collection</strong> with an microcontroller. I think microcontrollers are a very exciting way to generate data. With a little creativity, you can easily and cheaply realise interesting projects.
   <li> When you collect sensor data, you very quickly come into contact with the topic of <strong>streaming</strong>. I would like to get a first impression of the challenges and see where possible problems and difficulties can occur.
   <li> Until now, I have used either matplotlib or seaborn as a visualisation library. These are only suitable to a certain extent for dashboards. I want to <strong>learn how to use Plotly(+Dash)</strong> to generate interactive plots to create my own dashboards without business intelligence tools like PowerBI or Tableau.
   <li> In the course of this project I would also like to make first experiences with <strong>html</strong>.
